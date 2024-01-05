@@ -1,0 +1,13 @@
+.Boton, .escuderias, header {
+  display: flex;
+}
+
+.campeondelmundo1 p, .logo, a {
+  text-transform: uppercase;
+}
+
+.logo, .register-link p a, .remember-forgot a, a {
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=botonescuderiasheader.css.map */
